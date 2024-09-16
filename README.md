@@ -1,8 +1,8 @@
 # Homework 1 - Git Practice 
 
-# My Information 
+# My Information
 
-* Name: Camille Ellis 
+* Name: Camille Ellis
 * CWID: 884660770
 * Email: camillee@csu.fullerton.edu
 
