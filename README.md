@@ -1,6 +1,4 @@
-# Homework 01 Git practice submission 
-
-My submission for Computer science Data Structures, Section 04, Homework 01 
+# Homework 1 - Git Practice 
 
 # My Information 
 
