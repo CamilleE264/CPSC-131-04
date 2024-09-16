@@ -1,5 +1,7 @@
 # Homework 1 - Git Practice 
 
+My submission for Computer science class, Section 04, assignment 
+
 # My Information
 
 * Name: Camille Ellis
